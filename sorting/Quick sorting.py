@@ -47,3 +47,5 @@ example_list2 = [6, 8, 3, 9, 10, 1, 2, 4, 7, 5, 11]
 quick_sort2(example_list2)
 print(example_list2)
 
+example_list3 = [6, 8, 3, 9, 10, 1, 2, 4, 7, 5, 11]
+
